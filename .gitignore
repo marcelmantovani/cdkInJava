@@ -14,3 +14,6 @@ cdk.out
 
 .java-version
 .factorypath
+
+assets/
+dependency-reduced-pom.xml
